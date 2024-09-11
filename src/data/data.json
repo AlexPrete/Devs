@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "BENVENUTO IN DEVS",
+    "paragraph": "Siamo un team di sviluppatori innovativi e scopri come trasformiamo idee in realtà con soluzioni tecnologiche all’avanguardia. Insieme, costruiamo il futuro del web!"
+  },
+  "About": {
+    "paragraph": "Benvenuti nel nostro team di sviluppatori web appassionati e creativi! Siamo esperti nel trasformare idee in soluzioni digitali innovative, combinando tecnologia all'avanguardia con un design accattivante. La nostra missione è rendere il web un posto migliore, un progetto alla volta. Collaboriamo con i clienti per creare esperienze uniche e su misura per ogni esigenza",
+    "Why": [
+      "Competenza e Innovazione",
+      "Soluzioni Personalizzate",
+      "Design Accattivante e Funzionale",
+      "Supporto e Assistenza Continua"
+    ],
+    "Why2": [
+      "Progetti Puntuali e Budget-Friendly",
+      "Approccio Collaborativo",
+      "Innovazione Continua",
+      "Risultati Misurabili"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Sviluppo web",
+      "text": "Sviluppiamo siti web su misura, performanti e dal design accattivante per migliorare la tua presenza online. Affidati a noi per un’esperienza utente     impeccabile e risultati concreti"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Prezzi su misura",
+      "text": "Offriamo sviluppo web con prezzi su misura, adatti a ogni esigenza e budget. Ottieni il sito perfetto senza compromessi, con un investimento flessibile"
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Database",
+      "text": "Ottimizza i tuoi dati con soluzioni database efficienti e su misura. Gestisci, organizza e analizza informazioni cruciali per migliorare le tue decisioni aziendali"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Versatilità di lingue",
+      "text": "Amplia il tuo pubblico con un sito web multilingue! Offriamo soluzioni per portare i tuoi contenuti in diverse lingue, migliorando la tua visibilità e raggiungendo clienti globali"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Rapidità",
+      "text": "Metti online il tuo sito in tempi rapidi con il nostro sviluppo web veloce ed efficiente! Soluzioni pronte per l’uso, senza compromettere qualità e performance"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consultazione e supporto",
+      "text": "Offriamo consulenza e supporto tecnico dedicato per ogni fase del tuo progetto web. Affidati a noi per assistenza continua e soluzioni su misura per ogni tua esigenza!"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Servizio impeccabile! Il team di DEVS ha creato un sito web perfetto per la nostra azienda in tempi record.\"",
+      "name": "Marco Rinaldi"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Professionali e creativi, hanno trasformato la nostra idea in un sito web funzionale e moderno!\"",
+      "name": "Andrea Ferretti"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Siamo rimasti colpiti dalla loro attenzione ai dettagli e dalla rapidità nel fornire soluzioni!\"",
+      "name": "Luca Moretti"
+    },
+    {
+      "img": "img/testimonials/07.avif",
+      "text": "\"DEVS ha superato le nostre aspettative con un sito web fluido, veloce e facile da gestire!\"",
+      "name": "Laura Bianchi"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Supporto eccellente durante tutto il processo di sviluppo. Consiglio DEVS a chiunque!\"",
+      "name": "Davide Conti"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Fantastica esperienza! Il nostro sito è ora multilingue e pronto a conquistare il mercato internazionale.\"",
+      "name": "Elena Costa"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/10.avif",
+      "name": "Matteo Giordano",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/08.avif",
+      "name": "Alessandro Monti",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/07.avif",
+      "name": "Serena Valentini",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/09.avif",
+      "name": "Marta Lombardi",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Via delle Stelle 42, 00100 Roma, Italia",
+    "phone": "+39 06 1234 5678",
+    "email": "info@devs.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Comunicazione con i clienti",
+      "text": "Collaboriamo strettamente con i nostri clienti per comprendere le loro esigenze e creare soluzioni su misura. La comunicazione è la chiave per il successo di ogni progetto. Parliamo insieme del tuo prossimo grande progetto!"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Diamo voce alla vostre idee",
+      "text": "Valorizziamo le idee dei nostri clienti, trasformandole in soluzioni innovative. Ogni progetto nasce dall’ascolto e dalla collaborazione. Diamo voce alle tue idee per creare insieme qualcosa di straordinario!"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Team Building",
+      "text": "Il team building è fondamentale per creare un ambiente di lavoro coeso e produttivo. Collaboriamo e cresciamo insieme, trasformando ogni sfida in un’opportunità. Unisciti a noi per costruire un team vincente!"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Sviluppo",
+      "text": "Esplora il nostro mondo di sviluppo web! Diamo vita a idee innovative con tecnologie all'avanguardia e un design su misura. Trasformiamo la tua visione in esperienze digitali coinvolgenti e performanti."
+    }
+  ]
+}
