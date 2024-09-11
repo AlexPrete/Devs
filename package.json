@@ -1,10 +1,11 @@
 {
-  "name": "landingpage-react-template",
+  "name": "devs",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "devs": "file:",
     "emailjs-com": "^2.6.4",
     "landingpage-react-template": "file:",
     "react": "^17.0.1",
@@ -17,6 +18,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "14.x"
   },
   "eslintConfig": {
     "extends": "react-app"
